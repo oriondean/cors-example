@@ -2,8 +2,9 @@
 	"name": "cors-example",
 	"version": "0.0.1",
 	"description": "CORS Example",
-	"repository": "",
+	"repository": "https://github.com/oriondean/cors-example.git",
 	"license": "MIT",
+	"private" true,
 	"dependencies": {
 		"connect": "3.4.0",
 		"proxy-middleware": "0.13.0",
