@@ -8,7 +8,7 @@
 <script type="text/javascript">
 	// http://youmightnotneedjquery.com/ --> IE10 AJAX
 	var request = new XMLHttpRequest();
-	request.open("get", "api/latesthash");
+	request.open("get", "http://blockchain.info/q/eta");
 	
 	request.onload = function() {
 		if (this.status >= 200 && this.status < 400) {
