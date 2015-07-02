@@ -1,2 +1,5 @@
-# cors-example
-CORS example
+# CORS Example
+
+## Install steps
+* `npm install`
+* Enjoy!
