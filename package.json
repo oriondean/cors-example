@@ -1,0 +1,12 @@
+{
+	"name": "cors-example",
+	"version": "0.0.1",
+	"description": "CORS Example",
+	"repository": "",
+	"license": "MIT",
+	"dependencies": {
+		"connect": "3.4.0",
+		"proxy-middleware": "0.13.0",
+		"serve-static": "1.10.0"
+	}
+}
