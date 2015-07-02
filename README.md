@@ -1,0 +1,2 @@
+# cors-example
+CORS example
